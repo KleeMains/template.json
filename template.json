@@ -1,0 +1,14 @@
+{
+    "faction": "asoul",
+    "contact": "",
+    "templates": [
+      {
+        "name": "asoul",
+        "sources": [
+          "https://media.discordapp.net/attachments/1131766326013210674/1132155217262153868/asoul.png"
+        ],
+        "x": 20,
+        "y": 246
+      }
+    ]
+}
